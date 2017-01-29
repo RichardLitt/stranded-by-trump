@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Stranded By Trump
 email: strandedbytrump@gmail.com
-description: Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos Aires who felt dispirited and dejected by the news coming out of the U.S. Rather than sit around and feel powerless, we decided to build a site to help, however we could - some friends on Twitter helped out, too.
+description: "Help travelers and refugees affected by the #MuslimBan #NoBanNoWall #Resist"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://strandedbytrump.com" # the base hostname & protocol for your site, e.g. http://example.com
