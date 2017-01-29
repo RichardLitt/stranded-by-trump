@@ -1,5 +1,6 @@
 ---
 layout: home
+date: 2017-01-29 09:00:00
 ---
 # Fight the #MuslimBan Right Now
 
@@ -62,3 +63,5 @@ Here’s what you can do to help those in desperate need right now:
 ## It seems overwhelming, but we can overcome.
 
 By taking action together, we will save lives, keep families together, and show the world that Trump does not speak for all Americans.
+
+<span>Updated on: {{ page.date | date: site.date_format }}</span>
