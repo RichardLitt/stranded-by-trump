@@ -8,11 +8,13 @@
   background-image: url(/assets/img/protest.jpg);
   background-size: cover;
   background-position: center;
-  
-  .site-title {
-    padding-top: 40px;
-    background-color: #FFF;
 
+  .site-title {
+    padding-top: 0px;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    border-radius: 0px 0px 10px 10px;
+    background-color: rgba(255, 255, 255, 0.8);
     h1 {
       color: #d42729;
       font-weight: bold;
@@ -31,7 +33,7 @@
   }
 }
 
-/** 
+/**
  * Buttons
  */
 .btn {
@@ -56,11 +58,11 @@
   background: none;
   border: 2px solid #FAFAFA; }
   .btn-light:hover {
-    background-color: rgba(255, 255, 255, 0.1); 
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 .btn-blue {
-  background-color: #0157ae; 
+  background-color: #0157ae;
 }
 
 .site-nav {
@@ -273,4 +275,8 @@
       font-size: 18px;
     }
   }
+}
+
+#stranded-button {
+  margin-right:20px;
 }
