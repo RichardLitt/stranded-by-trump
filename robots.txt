@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://strandedbytrump.com
+Sitemap: https://strandedbytrump.com/sitemap.xml
