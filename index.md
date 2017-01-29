@@ -32,7 +32,10 @@ Here’s what to know if you are denied entry to the United States:
 
 **4. Ask for a lawyer.**
 
-If you are turned back:
+**5. Reach out!**
+
+The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
+The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
 
 ### Find Housing
 
