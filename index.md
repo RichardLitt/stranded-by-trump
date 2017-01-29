@@ -55,10 +55,11 @@ Here’s what you can do to help those in desperate need right now:
     * [International refugee assistance project](https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13).
     * Donate with Retweets and Shares:
       * ["For the next 6 hours, for every retweet this tweet gets, I will donate 50¢ to the @ACLU."](https://twitter.com/pacdude/status/825537340072402944).
-  * Join our Facebook Group and follow us on twitter to stay up to date on ways to help:
+  * Join our Facebook Group and follow us on Twitter to stay up to date on ways to help:
     * We will continue to post updates on opportunities to help as they come in.
     * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/).
     * Follow our [Twitter](https://twitter.com/{{ site.twitter_username }}).
+  * Help us translate this site! [Get in touch.](mailto:{{ site.email }}).
 
 
 ## It seems overwhelming, but we can overcome.
