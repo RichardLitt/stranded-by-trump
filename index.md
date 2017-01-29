@@ -23,7 +23,7 @@ While we can’t directly change the president’s decision, we CAN offer urgent
 
 Here’s what to know if you are denied entry to the United States:
 
-  * Know your rights at the airport, and when detained (American Civil Liberties Union).
+  * **Know your rights at the airport**, and when detained ([Read More at the American Civil Liberties Union website](https://www.aclu.org/know-your-rights)).
   * DO NOT SIGN anything you are asked to sign, including and especially Form I-407.
   * Do not voluntarily abandon your green card or lawful permanent resident application.
   * → Instead, ask for a lawyer.
@@ -74,6 +74,8 @@ Here’s what you can do to help those in desperate need right now:
 Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos Aires who felt dispirited and dejected by the news coming out of the U.S. Rather than sit around and feel powerless, we decided to build a site to help, however we could - some friends on Twitter helped out, too.
 
 We are nominally non-partisan, but we acknowledge that Trump's executive orders were racist, xenophobic, alienating, and decidedly un-American. We believe that no one person is illegal, and that America is best when it is welcoming all.
+
+Site idea and planning by [@richlitt](https://twitter.com/richlitt). The logo is by [Janne Wolterbeek](http://www.waldbach.nl/). Others (anonymous) helped out.
 
 If you'd like to help out, please contact us at [strandedbytrump@gmail.com](mailto:{{ site.email }}).
 
