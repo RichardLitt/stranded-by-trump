@@ -113,6 +113,7 @@ If you can’t donate, retweet and share posts from those who can:
   * ["i'm matching donations to @ACLU up to  $50k. please donate and reply or dm your receipts"](https://twitter.com/dhof/status/825525689533227008)
   * ["help our queer & immigrant friends. send me your donation receipts for the @aclu & I will match up to $100K"](https://twitter.com/Sia/status/825459576036220929)
   * ["Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."](https://twitter.com/goldroom/status/825504681820450817)
+  * * ["Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"](https://twitter.com/stewart/status/825581768241606656)
 
 ### **Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
@@ -136,4 +137,4 @@ If you'd like to help out, please contact us at [strandedbytrump@gmail.com](mail
   By taking action together, we will save lives, keep families together, and show the world that Trump does not speak for all Americans.
 </p>
 
-<span>Updated on: {{ page.date | date: site.date_format }}</span>
+<span>Updated on: {{ page.date | date: site.date_format }}</span>. [Source code](https://github.com/RichardLitt/stranded-by-trump).
