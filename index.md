@@ -12,8 +12,7 @@ On Jan. 27, President Trump banned entry to the U.S. for citizens from Iraq, Ira
 <br/>
 While we can’t directly change the president’s decision, we CAN offer urgent help to those who need it.
 
-### Read on to help, or get help.
-\#NoMuslimBan #NoBanNoWall #Resist
+[\#NoMuslimBan](https://twitter.com/search?q=%23nomuslimban) [#NoBanNoWall](https://twitter.com/search?q=%23nobannowall) [#Resist](https://twitter.com/search?q=%23resist)
 
 <p class="center-link">
   <a href="https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html?pagewanted=all">Those blocked from entry and detained include students, researchers, & families</a>
@@ -25,13 +24,13 @@ While we can’t directly change the president’s decision, we CAN offer urgent
 
 Here’s what to know if you are denied entry to the United States:
 
-**Know your rights at the airport**, and when detained. [Read more](https://www.aclu.org/know-your-rights) at the American Civil Liberties Union website.
+**1. Know your rights at the airport**, and when detained. [Read more](https://www.aclu.org/know-your-rights) at the American Civil Liberties Union website.
 
-**DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407.
+**2. DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407.
 
-**Do not voluntarily abandon your green card** or lawful permanent resident application.
+**3. Do not voluntarily abandon your green card** or lawful permanent resident application.
 
-→ Instead, **ask for a lawyer.**
+Instead, **ask for a lawyer.**
 
 If you are turned back:
 
@@ -57,16 +56,16 @@ Reach out [here](https://twitter.com/FreeSciNet/status/825546738605891584).
 
 Here’s what you can do to help those in desperate need right now:
 
-**Offer housing** on [Airbnb](https://www.airbnb.com/disaster) or other platforms
+**1. Offer housing** on [Airbnb](https://www.airbnb.com/disaster) or other platforms
 
-**If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let [Simon Sandoval-Moshenberg](mailto:simon@justice4all.org) know ASAP. He is the Director of the [Immigrant Advocacy Program](https://www.justice4all.org/immigrant-advocacy-program/) at the Legal Aid Center in Washington, D.C.
+**2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let [Simon Sandoval-Moshenberg](mailto:simon@justice4all.org) know ASAP. He is the Director of the [Immigrant Advocacy Program](https://www.justice4all.org/immigrant-advocacy-program/) at the Legal Aid Center in Washington, D.C.
 
   * EMAIL HIM: [simon@justice4all.org](mailto:simon@justice4all.org)
   * CALL HIM: [+1-703-778-3450](tel:+1-703-778-3450)
 
 ### **Protest**
 
-Facebook events for local protests
+Facebook events for local protests:
 
   * [New York](http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/)
   * [Boston](https://www.facebook.com/events/1808560036070492/)
