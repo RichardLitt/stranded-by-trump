@@ -59,7 +59,7 @@ Here’s what you can do to help those in desperate need right now:
     * We will continue to post updates on opportunities to help as they come in.
     * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/).
     * Follow our [Twitter](https://twitter.com/{{ site.twitter_username }}).
-  * Help us translate this site! [Get in touch.](mailto:{{ site.email }}).
+  * Help us translate this site! [Get in touch](mailto:{{ site.email }}).
 
 ## About this site
 
@@ -68,7 +68,6 @@ Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos 
 We are nominally non-partisan, but we acknowledge that Trump's executive orders were racist, xenophobic, alienating, and decidedly un-American. We believe that no one person is illegal, and that America is best when it is welcoming all.
 
 If you'd like to help out, please contact us at [strandedbytrump@gmail.com](mailto:{{ site.email }}).
-
 
 ## It seems overwhelming, but we can overcome.
 
