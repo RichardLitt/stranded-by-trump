@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.3.3"
+ruby "#{ENV['ruby_version'] || 2.3.1}"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
