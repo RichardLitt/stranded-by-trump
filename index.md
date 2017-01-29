@@ -90,7 +90,7 @@ If you don’t live in an urban area, organize your own protest
 
 If you are a lawyer: the [Urban Justice Center](https://www.urbanjustice.org/) has set up [this google form](https://docs.google.com/forms/d/e/1FAIpQLScU15uSaSkA61YrGmXfplfOu2UwlcwIyEJXPuyON6SCE6YlAw/viewform?c=0&w=1) for Airport Triaging. If you are able to help legally or as an observer, sign up.
 
-**5. Donate** and volunteer
+**6. Donate** and volunteer
 
 Help organizations helping those in need.
 
@@ -108,11 +108,11 @@ If you can’t donate, retweet and share posts from those who can:
   * <a href="https://twitter.com/stewart/status/825581768241606656" target="_blank">"Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"</a>
   * <a href="https://twitter.com/tfadell/status/825745021513166848" target="_blank">So far 168 donations totaling $52055!  Raising my match to $100k.  Let’s keep this going! @sacca</a>
 
-**6. Call your senators.**
+**7. Call your senators.**
 
 This can be done from Skype as well as from a phone in the States. Here is [a list of senators](https://docs.google.com/spreadsheets/d/1hSGjyWJZIQJpGz4V2ftX_qioCgBtL59oJkkhx146nFE/htmlview?sle=true#gid=0) and where they stand.
 
-**7. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
+**8. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
   * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a>
   * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
