@@ -1,10 +1,12 @@
+@import "../viewport-units-ios";
 /**
  * Site header
  */
 .site-header {
+  @include viewport-unit(height, 30vh);
   width: 100%;
-  height:80vh;
-  min-height: 400px;
+
+  min-height: 330px;
   background-image: url(/assets/img/protest.jpg);
   background-size: cover;
   background-position: center;
@@ -284,19 +286,26 @@
 
 #stranded-button {
   margin-right:30px;
+  background-color: #00BBB6 /* Highlight call to action */
 }
 
-@media screen and (min-width: 401px) {
+.main-button {
+  font-size: 20px;
+  padding: 12px 14px;
+  display: block;
+}
+#stranded-button {
+  margin: 0 0 20px 0;
+}
+
+/* medium-ish phones and up */
+@media screen and (min-width: 481px) {
   .main-button {
-    font-size:25px;
-    padding:15px 20px;
+    font-size:24px;
+    padding:10px 16px;
+    display: inline-block;
+  }
+  #stranded-button {
+    margin-right:30px;
   }
 }
-
-@media screen and (max-width: 400px) {
-  .main-button {
-    font-size:14px;
-    padding:15px 20px;
-  }
-}
-
