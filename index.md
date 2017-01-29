@@ -114,6 +114,13 @@ This can be done from Skype as well as from a phone in the States. Here is [a li
 
 <br/>
 
+# Contribute
+
+We need help! Currently, there are a few things you can do to help @StrandedByTrump have more impact:
+- **Share on Social Media**;
+- **Translate**: We need translations in Arabic, Kurdish, Farsi, Balochi, Azerbaijani, Berber, Somali, Zigua, Italian, Kurmanji, Armenian, and French. If you speak any of these, get in touch. For Arabic, if you speak a regional dialect or can translate, also get in touch.
+- **Help source data**: We're working on two things: a list of US Representatives stances on the Ban, and a list of resources for who is in the airports right now. Tweet at us or email!
+
 # About this site
 
 Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos Aires who felt dispirited and dejected by the news coming out of the U.S. Rather than sit around and feel powerless, we and some friends from Twitter decided to build a site to help.
