@@ -30,7 +30,7 @@ Here’s what to know if you are denied entry to the United States:
 
 **3. Do not voluntarily abandon your green card** or lawful permanent resident application.
 
-**4. Ask for a lawyer.**
+**4. Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates).
 
 **5. Reach out!**
 
