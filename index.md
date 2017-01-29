@@ -83,6 +83,8 @@ _This list may be out of date. Take to twitter and Facebook in your area to find
   * [San Francisco](https://www.facebook.com/events/1851001951851194)
   * [Tallahassee](https://www.facebook.com/events/949637481837442/)
 
+There is a general list [here from @ThinkProgress](https://thinkprogress.org/muslim-ban-protests-344f6e66022e#.lwuybt2c5): Atlanta, Baltimore, Bloomington, Boston, Canton NY, Chapel Hill, Chicago, Columbus, Denver, Detroit, Houston, Louisville, Minneapolis, Newark, New Haven, New York, Omaha, Los Angeles, Nashville, Philadelphia, Pittsburgh, Portland, Providence, Reno, Rochester, Salt Lake City, San Diego, San Francisco, Seattle, Washington, Windsor Locks CT.
+
 If you don’t see your area listed, ask friends on Facebook or Twitter -- there will be protests in virtually every urban area
 
 Search protest locations on [protestwithme.com](http://www.protestwithme.com/).
