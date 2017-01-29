@@ -47,10 +47,22 @@ Here’s what you can do to help those in desperate need right now:
     * CALL HIM: 703-778-3450
 
   * Find a **protest** in your area
+    * [Find protest locations](http://www.protestwithme.com/locations.php), or click below to find Facebook events for local protests
     * [New York](http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/)
     * [Boston](https://www.facebook.com/events/1808560036070492/)
     * [Los Angeles](https://www.facebook.com/events/390044374684230/)
     * [San Francisco](https://www.facebook.com/events/1851001951851194)
+    * [Portland, ME](https://www.facebook.com/events/326549134409135/)
+    * [Chapel Hill](https://www.facebook.com/events/1830257140581355/)
+    * [Tallahassee](https://www.facebook.com/events/949637481837442/)
+    * [Miami](https://www.facebook.com/events/617672891761442/)
+    * [Richmond, VA](https://www.facebook.com/events/195526110922631/)
+    * [Houston, TX](https://www.facebook.com/events/771992316298993/)
+    * [Austin, TX](https://www.facebook.com/events/760757904100266/)
+    * [Detroit, MI](https://www.facebook.com/events/959584757476881/)
+    * [Providence, RI](https://www.facebook.com/events/1571276276234343/)
+    * [Kansas City, MO](https://www.facebook.com/events/1725475487783120/)
+
     * [Know your rights at a protest](https://www.aclu.org/sites/default/files/field_pdf_file/kyr_protests.pdf)
     * If you don’t see your area listed, ask friends on Facebook or Twitter -- there will be protests in virtually every urban area
     * If you don’t live in an urban area, organize your own protest
@@ -59,14 +71,15 @@ Here’s what you can do to help those in desperate need right now:
     * [Make sure you’re protesting safely and legally](http://lifehacker.com/how-to-protest-safely-and-legally-5859590). You can’t help if you’re in jail.
   * **Donate** to organizations helping those in need
     * [International Rescue Committee](https://help.rescue.org/donate/refugees-need-urgent-support?ms=gs_ppc_onex_inaug17_es_170112&initialms=gs_ppc_onex_inaug17_es_170112&gclid=CMHut-Ww5tECFdm3wAodiUAPXw)
-    * Volunteer your time to [Work For Refugees](https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/)
     * [American Civil Liberties Union (ACLU)](https://action.aclu.org/secure/he-discriminated-we-sued)
     * [National Immigration Law Center](https://nilc.z2systems.com/np/clients/nilc/donation.jsp?campaign=15)
     * [International refugee assistance project](https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13)
-    * Donate with Retweets and Shares
+    * Volunteer your time to [Work For Refugees](https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/)
+    * If you can’t donate, retweet and share posts from those who can:
       * ["For the next 6 hours, for every retweet this tweet gets, I will donate 50¢ to the @ACLU."](https://twitter.com/pacdude/status/825537340072402944)
       * ["i'm matching donations to @ACLU up to  $50k. please donate and reply or dm your receipts"](https://twitter.com/dhof/status/825525689533227008)
       * ["help our queer & immigrant friends. send me your donation receipts for the @aclu & I will match up to $100K"](https://twitter.com/Sia/status/825459576036220929)
+      * ["Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."](https://twitter.com/goldroom/status/825504681820450817)
   * **Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
     * We will continue to post updates on opportunities to help as they come in
     * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/)
