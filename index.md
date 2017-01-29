@@ -123,7 +123,7 @@ This can be done from Skype as well as from a phone in the States. Here is [a li
 
 We need help! Currently, there are a few things you can do to help @StrandedByTrump have more impact:
 - **Share on Social Media**;
-- **Translate**: We need translations in **Arabic**, **Kurdish**, **Farsi**, Balochi, Azerbaijani, Berber, **Somali**, Zigua, Italian, **Kurmanji**, Armenian, and French. If you speak any of these, get in touch. For Arabic, if you speak a regional dialect or can translate, also get in touch.
+- **Translate**: We need translations in **Arabic**, **Kurdish**, **Farsi**, Balochi, Azerbaijani, Berber, **Somali**, Zigua, Italian, **Kurmanji**, Armenian, and French. If you speak any of these, get in touch. For Arabic, if you speak a regional dialect or can translate, also get in touch. [Use this form](https://docs.google.com/forms/d/e/1FAIpQLSeQFET4wn_JPxjFJ2UIlF0ALaqvOecgKd2t1C5bufPzvRveRA/viewform).
 - **Help source data**: We're working on two things: a list of US Representatives stances on the Ban, and a list of resources for who is in the airports right now. Tweet at us or email!
 - **Code**: We need to get i18n running for the translators. Can you help? Also, look at [the issues here](https://github.com/RichardLitt/stranded-by-trump).
 
