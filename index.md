@@ -49,6 +49,8 @@ Here’s what you can do to help those in desperate need right now:
     * [International Rescue Committee](https://help.rescue.org/donate/refugees-need-urgent-support?ms=gs_ppc_onex_inaug17_es_170112&initialms=gs_ppc_onex_inaug17_es_170112&gclid=CMHut-Ww5tECFdm3wAodiUAPXw)
     * Volunteer your time to [Work For Refugees](https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/)
     * [American Civil Liberties Union (ACLU)](https://action.aclu.org/secure/he-discriminated-we-sued)
+    * [National Immigration Law Center](https://nilc.z2systems.com/np/clients/nilc/donation.jsp?campaign=15)
+    * [International refugee assistance project](https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13)
     * Donate with Retweets and Shares
       * ["For the next 6 hours, for every retweet this tweet gets, I will donate 50¢ to the @ACLU."](https://twitter.com/pacdude/status/825537340072402944)
 
