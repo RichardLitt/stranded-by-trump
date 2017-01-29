@@ -20,7 +20,7 @@ While we can’t directly change the president’s decision, we CAN offer urgent
 
 <br/>
 
-## For Travelers & Refugees
+# For Travelers & Refugees
 
 Here’s what to know if you are denied entry to the United States:
 
@@ -50,7 +50,7 @@ If you need help with your U.S. possessions (plants, car, etc):
 
 * Reach out [here](https://twitter.com/FreeSciNet/status/825546738605891584).  
 
-## For Those Who Want to Help
+# For Those Who Want to Help
 
 Here’s what you can do to help those in desperate need right now:
 
@@ -123,7 +123,7 @@ If you can’t donate, retweet and share posts from those who can:
 
 <br/>
 
-## About this site
+# About this site
 
 Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos Aires who felt dispirited and dejected by the news coming out of the U.S. Rather than sit around and feel powerless, we and some friends from Twitter decided to build a site to help.
 
