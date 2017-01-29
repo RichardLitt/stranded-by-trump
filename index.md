@@ -105,7 +105,8 @@ If you can’t donate, retweet and share posts from those who can:
   * <a href="https://twitter.com/dhof/status/825525689533227008" target="_blank">"i'm matching donations to @ACLU up to  $50k. please donate and reply or dm your receipts"</a>
   * <a href="https://twitter.com/Sia/status/825459576036220929" target="_blank">"help our queer & immigrant friends. send me your donation receipts for the @aclu & I will match up to $100K"</a>
   * <a href="https://twitter.com/goldroom/status/825504681820450817" target="_blank">"Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."</a>
-  * * <a href="https://twitter.com/stewart/status/825581768241606656" target="_blank">"Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"</a>
+  * <a href="https://twitter.com/stewart/status/825581768241606656" target="_blank">"Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"</a>
+  * <a href="https://twitter.com/tfadell/status/825745021513166848" target="_blank">So far 168 donations totaling $52055!  Raising my match to $100k.  Let’s keep this going! @sacca</a>
 
 **6. Call your senators.**
 
