@@ -59,10 +59,10 @@ Here’s what you can do to help those in desperate need right now:
 
 **1. Offer housing** on <a href="https://www.airbnb.com/disaster" target="_blank">Airbnb</a> or other platforms
 
-**2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let <a href="mailto:simon@justice4all.org" target="_blank">Simon Sandoval-Moshenberg</a> know ASAP. He is the Director of the <a href="https://www.justice4all.org/immigrant-advocacy-program/" target="_blank">Immigrant Advocacy Program</a> at the Legal Aid Center in Washington, D.C.
+**2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let <a href="mailto:simon@justice4all.org">Simon Sandoval-Moshenberg</a> know ASAP. He is the Director of the <a href="https://www.justice4all.org/immigrant-advocacy-program/" target="_blank">Immigrant Advocacy Program</a> at the Legal Aid Center in Washington, D.C.
 
-  * EMAIL HIM: <a href="mailto:simon@justice4all.org" target="_blank">simon@justice4all.org</a>
-  * CALL HIM: <a href="tel:+1-703-778-3450" target="_blank">+1-703-778-3450</a>
+  * EMAIL HIM: <a href="mailto:simon@justice4all.org">simon@justice4all.org</a>
+  * CALL HIM: <a href="tel:+1-703-778-3450">+1-703-778-3450</a>
 
 **3. Protest**
 
