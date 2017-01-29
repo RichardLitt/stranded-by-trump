@@ -2,33 +2,65 @@
  * Site header
  */
 .site-header {
-  background-color: #3498db;
   width: 100%;
+  height:80vh;
   min-height: 400px;
-  color: #FFF;
+  background-image: url(/assets/img/protest.jpg);
+  background-size: cover;
+  background-position: center;
   
   .site-title {
     padding-top: 40px;
+    background-color: #FFF;
 
     h1 {
-      color: #FFF;
-      font-size: 50px;
+      color: #d42729;
+      font-weight: bold;
+      font-size: 60px;
     }
   }
 
   .intro {
     display: block;
+    background-color: #FFF;
   }
 
   .intro-links {
     margin-top: 30px;
-    a {
-      font-size: 20px;
-      text-decoration: underline;
-      color: #fff;
-      display: block;
-    }
+    text-align: center;
   }
+}
+
+/** 
+ * Buttons
+ */
+.btn {
+  display: inline-block;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: #FAFAFA;
+  border-radius: 7px;
+  border: none;
+  padding: 10px 20px;
+  -webkit-appearance: none;
+  text-decoration: none; }
+  .btn:hover {
+    color: #FAFAFA;
+    text-decoration: none;
+    background-color: #0274e5; }
+  .btn:visited {
+    color: #FAFAFA; }
+
+.btn-light {
+  background: none;
+  border: 2px solid #FAFAFA; }
+  .btn-light:hover {
+    background-color: rgba(255, 255, 255, 0.1); 
+}
+
+.btn-blue {
+  background-color: #0157ae; 
 }
 
 .site-nav {
