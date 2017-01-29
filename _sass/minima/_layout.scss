@@ -8,17 +8,22 @@
   background-image: url(/assets/img/protest.jpg);
   background-size: cover;
   background-position: center;
+  padding-top:20px;
 
   .site-title {
-    padding-top: 0px;
+    margin-top:100px;
+    padding-top: 30px;
     text-align: center;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 50%;
+    width: 150px;
+    height: 120px;
+    margin: auto;
     background-color: rgba(255, 255, 255, 0.8);
     h1 {
       color: #d42729;
       font-weight: bold;
-      font-size: 60px;
+      font-size: 50px;
     }
   }
 
@@ -278,5 +283,20 @@
 }
 
 #stranded-button {
-  margin-right:20px;
+  margin-right:30px;
 }
+
+@media screen and (min-width: 401px) {
+  .main-button {
+    font-size:25px;
+    padding:15px 20px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .main-button {
+    font-size:14px;
+    padding:15px 20px;
+  }
+}
+
