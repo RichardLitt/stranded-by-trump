@@ -67,20 +67,20 @@ Facebook events for local protests:
 
 _This list may be out of date. Take to twitter and Facebook in your area to find more; we will try to keep this updated._
 
-  * [New York](http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/)
-  * [Boston](https://www.facebook.com/events/1808560036070492/)
-  * [Los Angeles](https://www.facebook.com/events/390044374684230/)
-  * [San Francisco](https://www.facebook.com/events/1851001951851194)
-  * [Portland, ME](https://www.facebook.com/events/326549134409135/)
-  * [Chapel Hill](https://www.facebook.com/events/1830257140581355/)
-  * [Tallahassee](https://www.facebook.com/events/949637481837442/)
-  * [Miami](https://www.facebook.com/events/617672891761442/)
-  * [Richmond, VA](https://www.facebook.com/events/195526110922631/)
-  * [Houston, TX](https://www.facebook.com/events/771992316298993/)
   * [Austin, TX](https://www.facebook.com/events/760757904100266/)
+  * [Boston](https://www.facebook.com/events/1808560036070492/)
+  * [Chapel Hill](https://www.facebook.com/events/1830257140581355/)
   * [Detroit, MI](https://www.facebook.com/events/959584757476881/)
-  * [Providence, RI](https://www.facebook.com/events/1571276276234343/)
+  * [Houston, TX](https://www.facebook.com/events/771992316298993/)
   * [Kansas City, MO](https://www.facebook.com/events/1725475487783120/)
+  * [Los Angeles](https://www.facebook.com/events/390044374684230/)
+  * [Miami](https://www.facebook.com/events/617672891761442/)
+  * [New York](http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/)
+  * [Portland, ME](https://www.facebook.com/events/326549134409135/)
+  * [Providence, RI](https://www.facebook.com/events/1571276276234343/)
+  * [Richmond, VA](https://www.facebook.com/events/195526110922631/)
+  * [San Francisco](https://www.facebook.com/events/1851001951851194)
+  * [Tallahassee](https://www.facebook.com/events/949637481837442/)
 
 If you don’t see your area listed, ask friends on Facebook or Twitter -- there will be protests in virtually every urban area
 
