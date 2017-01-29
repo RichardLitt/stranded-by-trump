@@ -35,7 +35,9 @@ If you are turned back:
     * Free housing on [Airbnb](https://twitter.com/bchesky/status/825517729251684352).
     * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/) to find housing.
     * Follow our [Twitter](https://twitter.com/{{ site.twitter_username }}) thread to find housing.
-  * If you are a student and need help relocating, contact [Emiliano DC on Twitter](https://twitter.com/emilianodc_/status/825450701367148545).
+  * If you are a student and need help relocating:
+    * Contact [Emiliano DC on Twitter](https://twitter.com/emilianodc_/status/825450701367148545).
+    * Look at this document for [Crypto/InfoSec students](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit).
 
 ## For Those Who Want to Help
 
