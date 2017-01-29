@@ -68,27 +68,7 @@ Here’s what you can do to help those in desperate need right now:
 
 **3. Protest**
 
-Facebook events for local protests:
-
-_This list may be out of date. Take to twitter and Facebook in your area to find more; we will try to keep this updated._
-
-  * <a href="http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/" target="_blank">New York</a>
-  * <a href="https://www.facebook.com/events/1808560036070492/" target="_blank">Boston</a>
-  * <a href="https://www.facebook.com/events/390044374684230/" target="_blank">Los Angeles</a>
-  * <a href="https://www.facebook.com/events/1851001951851194" target="_blank">San Francisco</a>
-  * <a href="https://www.facebook.com/events/326549134409135/" target="_blank">Portland, ME</a>
-  * <a href="https://www.facebook.com/events/1830257140581355/" target="_blank">Chapel Hill</a>
-  * <a href="https://www.facebook.com/events/949637481837442/" target="_blank">Tallahassee</a>
-  * <a href="https://www.facebook.com/events/617672891761442/" target="_blank">Miami</a>
-  * <a href="https://www.facebook.com/lisabendermpls/posts/1267037916713686" target="_blank">Minneapolis</a>
-  * <a href="https://www.facebook.com/events/195526110922631/" target="_blank">Richmond, VA</a>
-  * <a href="https://www.facebook.com/events/771992316298993/" target="_blank">Houston, TX</a>
-  * <a href="https://www.facebook.com/events/760757904100266/" target="_blank">Austin, TX</a>
-  * <a href="https://www.facebook.com/events/959584757476881/" target="_blank">Detroit, MI</a>
-  * <a href="https://www.facebook.com/events/1571276276234343/" target="_blank">Providence, RI</a>
-  * <a href="https://www.facebook.com/events/1725475487783120/" target="_blank">Kansas City, MO</a>
-
-There is a general list [here from @ThinkProgress](https://thinkprogress.org/muslim-ban-protests-344f6e66022e#.lwuybt2c5): Atlanta, Baltimore, Bloomington, Boston, Canton NY, Chapel Hill, Chicago, Columbus, Denver, Detroit, Houston, Louisville, Minneapolis, Newark, New Haven, New York, Omaha, Los Angeles, Nashville, Philadelphia, Pittsburgh, Portland, Providence, Reno, Rochester, Salt Lake City, San Diego, San Francisco, Seattle, Washington, Windsor Locks CT.
+Here is [a map of protests](http://getgroundgame.com/airportprotests.html) happening around the world, with updates.
 
 If you don’t see your area listed, ask friends on Facebook or Twitter -- there will be protests in virtually every urban area.
 
