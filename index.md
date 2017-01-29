@@ -26,13 +26,15 @@ Here’s what to know if you are denied entry to the United States:
 
 **1. Know your rights at the airport**, and when detained. <a href="https://www.aclu.org/know-your-rights" target="_blank">Read more</a> at the American Civil Liberties Union website.
 
-**2. DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407.
+**2. DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407, even if they say it will make life easier.
 
 **3. Do not voluntarily abandon your green card** or lawful permanent resident application.
 
-**4. Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates).
+**4. Demand a hearing with a judge.** You have the right to an immigration judge. 
 
-**5. Reach out!**
+**5. Ask for a lawyer.** If you are detained at an airport in the United States, you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with the CPB.
+
+**6. Reach out!**
 
 The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
 The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
