@@ -102,11 +102,18 @@ Help organizations helping those in need.
 
 If you can’t donate, retweet and share posts from those who can:
 
-  * <a href="https://twitter.com/dhof/status/825525689533227008" target="_blank">"i'm matching donations to @ACLU up to  $50k. please donate and reply or dm your receipts"</a>
-  * <a href="https://twitter.com/Sia/status/825459576036220929" target="_blank">"help our queer & immigrant friends. send me your donation receipts for the @aclu & I will match up to $100K"</a>
-  * <a href="https://twitter.com/goldroom/status/825504681820450817" target="_blank">"Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."</a>
-  * <a href="https://twitter.com/stewart/status/825581768241606656" target="_blank">"Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"</a>
-  * <a href="https://twitter.com/tfadell/status/825745021513166848" target="_blank">So far 168 donations totaling $52055!  Raising my match to $100k.  Let’s keep this going! @sacca</a>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i&#39;m matching donations to <a href="https://twitter.com/ACLU">@ACLU</a> up to  $50k. please donate and reply or dm your receipts <a href="https://t.co/zaWnk9aPrc">https://t.co/zaWnk9aPrc</a></p>&mdash; dom hofmann (@dhof) <a href="https://twitter.com/dhof/status/825525689533227008">January 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">help our queer &amp; immigrant friends. send me your donation receipts for the <a href="https://twitter.com/ACLU">@aclu</a> &amp; I will match up to $100K <a href="https://t.co/P9zVRH0WH0">https://t.co/P9zVRH0WH0</a> <a href="https://twitter.com/hashtag/RESIST?src=hash">#RESIST</a></p>&mdash; sia (@Sia) <a href="https://twitter.com/Sia/status/825459576036220929">January 28, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Every bit helps. Send me your donation receipts to the <a href="https://twitter.com/ACLU">@ACLU</a> from today and I&#39;ll match it up to $2000. <a href="https://t.co/6MzP6Mbklg">https://t.co/6MzP6Mbklg</a></p>&mdash; Goldroom (@goldroom) <a href="https://twitter.com/goldroom/status/825504681820450817">January 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Okay. Another $10k match to the ACLU following <a href="https://twitter.com/cabel">@cabel</a> who followed <a href="https://twitter.com/stevenf">@stevenf</a>. Tweet receipts to <a href="https://twitter.com/command_tab">@command_tab</a> and I&#39;ll match :) <a href="https://t.co/qqSpvT2O3A">https://t.co/qqSpvT2O3A</a></p>&mdash; Stewart Butterfield (@stewart) <a href="https://twitter.com/stewart/status/825581768241606656">January 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Update: So far 168 donations totaling $52055!  Raising my match to $100k.  Let’s keep this going! <a href="https://twitter.com/sacca">@sacca</a> <a href="https://t.co/Zn3FvuH4Po">https://t.co/Zn3FvuH4Po</a></p>&mdash; Tony Fadell (@tfadell) <a href="https://twitter.com/tfadell/status/825745021513166848">January 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Okay: the amazing <a href="https://twitter.com/natfriedman">@natfriedman</a> is *also* going to match $50k. (Even if he&#39;s not tagged.) So you get a 3X multiplier by donating now.</p>&mdash; Patrick Collison (@patrickc) <a href="https://twitter.com/patrickc/status/825804280577679360">January 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **7. Call Congress.**
 
