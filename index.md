@@ -30,11 +30,11 @@ Here’s what to know if you are denied entry to the United States:
 
 **3. Do not voluntarily abandon your green card** or lawful permanent resident application.
 
-Instead, **ask for a lawyer.**
+**4. Ask for a lawyer.**
 
 If you are turned back:
 
-**Help finding housing**
+### Find Housing
 
 Americans are offering sanctuary to those in need:
 
@@ -42,15 +42,13 @@ Americans are offering sanctuary to those in need:
   * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/) to find housing.
   * Follow our [Twitter](https://twitter.com/{{ site.twitter_username }}) thread to find housing.
 
-If you are a student and need help relocating:
+If you are **a student** and need help relocating:
 
+* [Look at this document of academics willing to help](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit) affected by the ban.
 
-[Look at this document of academics willing to help](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit) affected by the ban.
+If you need help with your U.S. possessions (plants, car, etc):
 
-If you need help with your US things (plants, car, etc):
-
-Reach out [here](https://twitter.com/FreeSciNet/status/825546738605891584).
-<br/>
+* Reach out [here](https://twitter.com/FreeSciNet/status/825546738605891584).  
 
 ## For Those Who Want to Help
 
@@ -63,9 +61,11 @@ Here’s what you can do to help those in desperate need right now:
   * EMAIL HIM: [simon@justice4all.org](mailto:simon@justice4all.org)
   * CALL HIM: [+1-703-778-3450](tel:+1-703-778-3450)
 
-### **Protest**
+**3. Protest**
 
 Facebook events for local protests:
+
+_This list may be out of date. Take to twitter and Facebook in your area to find more; we will try to keep this updated._
 
   * [New York](http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/)
   * [Boston](https://www.facebook.com/events/1808560036070492/)
@@ -90,7 +90,7 @@ Search protest locations on [protestwithme.com](http://www.protestwithme.com/).
 <a class="btn btn-blue" href="https://www.aclu.org/sites/default/files/field_pdf_file/kyr_protests.pdf">Know your rights at a protest</a>
 </p>
 
-### **Organize**
+**4. Organize**
 
 If you don’t live in an urban area, organize your own protest
 
@@ -98,7 +98,7 @@ If you don’t live in an urban area, organize your own protest
   * [How to Protest Donald Trump’s Refugee Ban, No Matter Where You Are](https://www.bustle.com/p/how-to-protest-donald-trumps-refugee-ban-no-matter-where-you-are-33783) (Bustle)
   * [Make sure you’re protesting safely and legally](http://lifehacker.com/how-to-protest-safely-and-legally-5859590). You can’t help if you’re in jail.
 
-### **Donate** and volunteer
+**5. Donate** and volunteer
 
 Help organizations helping those in need.
 
@@ -116,7 +116,7 @@ If you can’t donate, retweet and share posts from those who can:
   * ["Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."](https://twitter.com/goldroom/status/825504681820450817)
   * * ["Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"](https://twitter.com/stewart/status/825581768241606656)
 
-### **Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
+**6. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
   * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/)
   * Follow our [Twitter](https://twitter.com/{{ site.twitter_username }})
@@ -125,7 +125,7 @@ If you can’t donate, retweet and share posts from those who can:
 
 ## About this site
 
-Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos Aires who felt dispirited and dejected by the news coming out of the U.S. Rather than sit around and feel powerless, we decided to build a site to help, however we could - some friends on Twitter helped out, too.
+Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos Aires who felt dispirited and dejected by the news coming out of the U.S. Rather than sit around and feel powerless, we and some friends from Twitter decided to build a site to help.
 
 We are nominally non-partisan, but we acknowledge that Trump's executive orders were racist, xenophobic, alienating, and decidedly un-American. We believe that no one person is illegal, and that America is best when it is welcoming all.
 
