@@ -45,9 +45,8 @@ Americans are offering sanctuary to those in need:
 
 If you are a student and need help relocating:
 
-Contact [Emiliano DC on Twitter](https://twitter.com/emilianodc_/status/825450701367148545).
 
-Contacts for [Crypto/InfoSec students](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit) affected by the ban.
+[Look at this document of academics willing to help](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit) affected by the ban.
 
 If you need help with your US things (plants, car, etc):
 
