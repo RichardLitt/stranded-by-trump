@@ -20,17 +20,19 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-4">
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+
+          <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/groups/155248034975170/">Stranded By Trump</a></li>
+
+           {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
         </ul>
