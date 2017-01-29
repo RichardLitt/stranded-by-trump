@@ -108,9 +108,14 @@ If you can’t donate, retweet and share posts from those who can:
   * <a href="https://twitter.com/stewart/status/825581768241606656" target="_blank">"Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"</a>
   * <a href="https://twitter.com/tfadell/status/825745021513166848" target="_blank">So far 168 donations totaling $52055!  Raising my match to $100k.  Let’s keep this going! @sacca</a>
 
-**7. Call your senators.**
+**7. Call Congress.**
 
-This can be done from Skype as well as from a phone in the States. Here is [a list of senators](https://docs.google.com/spreadsheets/d/1hSGjyWJZIQJpGz4V2ftX_qioCgBtL59oJkkhx146nFE/htmlview?sle=true#gid=0) and where they stand.
+This can be done from Skype as well as from a phone in the States. 
+
+- Here is [a list of senators](https://docs.google.com/spreadsheets/d/1hSGjyWJZIQJpGz4V2ftX_qioCgBtL59oJkkhx146nFE/htmlview?sle=true#gid=0) and where they stand.
+- Here is [a list of Representatives](http://www.vox.com/2017/1/29/14427466/republican-congress-silent-trump-refugee) and where they stand.
+
+You can find your Representatives on [https://congress.ninja](https://congress.ninja) by using your zipcode.
 
 **8. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
