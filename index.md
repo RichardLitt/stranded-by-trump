@@ -47,7 +47,10 @@ Here’s what you can do to help those in desperate need right now:
     * [Make sure you’re protesting safely and legally](http://lifehacker.com/how-to-protest-safely-and-legally-5859590). You can’t help if you’re in jail.
   * Donate to organizations helping those in need
     * [International Rescue Committee](https://help.rescue.org/donate/refugees-need-urgent-support?ms=gs_ppc_onex_inaug17_es_170112&initialms=gs_ppc_onex_inaug17_es_170112&gclid=CMHut-Ww5tECFdm3wAodiUAPXw)
-    * [ACLU](https://action.aclu.org/secure/he-discriminated-we-sued)
+    * Volunteer your time to [Work For Refugees](https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/)
+    * [American Civil Liberties Union (ACLU)](https://action.aclu.org/secure/he-discriminated-we-sued)
+    * Donate with Retweets and Shares
+      * ["For the next 6 hours, for every retweet this tweet gets, I will donate 50¢ to the @ACLU."](https://twitter.com/pacdude/status/825537340072402944)
 
 ## It seems overwhelming, but we can overcome.
 
