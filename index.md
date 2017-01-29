@@ -1,6 +1,27 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+## For Travellers
+
+Lede: What to know if you are denied entry to the Unites States
+
+- Know your rights!
+
+- ACLU
+
+- Don't Sign
+
+- Join FACEBOOK GROUP to find housing
+
+## For Helpers
+
+- Offer housing!
+
+- Protest
+
+  - Link to protests
+
+- Donate!
+
+  - We would like to do this; if you know how legally, get in touch
