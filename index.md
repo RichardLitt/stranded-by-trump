@@ -86,6 +86,10 @@ If you don’t live in an urban area, organize your own protest
   * <a href="https://www.bustle.com/p/how-to-protest-donald-trumps-refugee-ban-no-matter-where-you-are-33783) (Bustle" target="_blank">How to Protest Donald Trump’s Refugee Ban, No Matter Where You Are</a>
   * <a href="http://lifehacker.com/how-to-protest-safely-and-legally-5859590" target="_blank">Make sure you’re protesting safely and legally</a>. You can’t help if you’re in jail.
 
+**5. Help refugees directly at airports**
+
+The [Urban Justice Center](https://www.urbanjustice.org/) has set up [this google form](https://docs.google.com/forms/d/e/1FAIpQLScU15uSaSkA61YrGmXfplfOu2UwlcwIyEJXPuyON6SCE6YlAw/viewform?c=0&w=1) for Airport Triaging. If you are able to help legally or as an observer, or with the media, this form may be particularly useful to you.
+
 **5. Donate** and volunteer
 
 Help organizations helping those in need.
