@@ -103,4 +103,4 @@ If you'd like to help out, please contact us at [strandedbytrump@gmail.com](mail
   By taking action together, we will save lives, keep families together, and show the world that Trump does not speak for all Americans.
 </p>
 
-<span>Updated on: {{ page.date | date: site.date_format }}</span>
+<span>Updated on: {{ page.date | date: site.date_format }}</span>. [Source code](https://github.com/RichardLitt/stranded-by-trump).
