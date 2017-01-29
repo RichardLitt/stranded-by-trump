@@ -75,6 +75,7 @@ _This list may be out of date. Take to twitter and Facebook in your area to find
   * [Kansas City, MO](https://www.facebook.com/events/1725475487783120/)
   * [Los Angeles](https://www.facebook.com/events/390044374684230/)
   * [Miami](https://www.facebook.com/events/617672891761442/)
+  * [Minneapolis](https://www.facebook.com/lisabendermpls/posts/1267037916713686)
   * [New York](http://pix11.com/2017/01/28/protesters-gather-at-jfk-airports-terminal-4-after-refugees-detained-following-trumps-immigration-ban/)
   * [Portland, ME](https://www.facebook.com/events/326549134409135/)
   * [Providence, RI](https://www.facebook.com/events/1571276276234343/)
