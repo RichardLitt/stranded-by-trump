@@ -123,7 +123,11 @@ If you can’t donate, retweet and share posts from those who can:
   * <a href="https://twitter.com/goldroom/status/825504681820450817" target="_blank">"Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."</a>
   * * <a href="https://twitter.com/stewart/status/825581768241606656" target="_blank">"Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"</a>
 
-**6. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
+**6. Call your senators.**
+
+This can be done from Skype as well as from a phone in the States. Here is [a list of senators](https://docs.google.com/spreadsheets/d/1hSGjyWJZIQJpGz4V2ftX_qioCgBtL59oJkkhx146nFE/htmlview?sle=true#gid=0) and where they stand.
+
+**7. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
   * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a>
   * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
