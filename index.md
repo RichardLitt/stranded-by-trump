@@ -116,7 +116,6 @@ Help organizations helping those in need.
 
 If you can’t donate, retweet and share posts from those who can:
 
-  * <a href="https://twitter.com/pacdude/status/825537340072402944" target="_blank">"For the next 6 hours, for every retweet this tweet gets, I will donate 50¢ to the @ACLU."</a>
   * <a href="https://twitter.com/dhof/status/825525689533227008" target="_blank">"i'm matching donations to @ACLU up to  $50k. please donate and reply or dm your receipts"</a>
   * <a href="https://twitter.com/Sia/status/825459576036220929" target="_blank">"help our queer & immigrant friends. send me your donation receipts for the @aclu & I will match up to $100K"</a>
   * <a href="https://twitter.com/goldroom/status/825504681820450817" target="_blank">"Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."</a>
