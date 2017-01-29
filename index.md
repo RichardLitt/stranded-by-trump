@@ -49,6 +49,9 @@ Contact [Emiliano DC on Twitter](https://twitter.com/emilianodc_/status/82545070
 
 Contacts for [Crypto/InfoSec students](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit) affected by the ban.
 
+If you need help with your US things (plants, car, etc):
+
+Reach out [here](https://twitter.com/FreeSciNet/status/825546738605891584).
 <br/>
 
 ## For Those Who Want to Help
