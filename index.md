@@ -119,6 +119,10 @@ This can be done from Skype as well as from a phone in the States. Here is [a li
 
 <br/>
 
+# If you are a Federal Employee
+
+Resist! "I was following orders" is not a valid statement. The ACLU has your back and will 100% defend your constitutional, moral actions. Get in touch with them ASAP.
+
 # Contribute
 
 We need help! Currently, there are a few things you can do to help @StrandedByTrump have more impact:
