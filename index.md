@@ -133,7 +133,7 @@ Site idea and planning by [@richlitt](https://twitter.com/richlitt). The logo is
 
 If you'd like to help out, please contact us at [strandedbytrump@gmail.com](mailto:{{ site.email }}).
 
-<h2 class="final-thought">It seems overwhelming, but we can overcome.</h2>
+<h2 class="final-thought">We're in this together. #resist</h2>
 <p class="final-thought">
   By taking action together, we will save lives, keep families together, and show the world that Trump does not speak for all Americans.
 </p>
