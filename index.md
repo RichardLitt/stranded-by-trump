@@ -82,6 +82,7 @@ Here’s what you can do to help those in desperate need right now:
       * ["i'm matching donations to @ACLU up to  $50k. please donate and reply or dm your receipts"](https://twitter.com/dhof/status/825525689533227008)
       * ["help our queer & immigrant friends. send me your donation receipts for the @aclu & I will match up to $100K"](https://twitter.com/Sia/status/825459576036220929)
       * ["Every bit helps. Send me your donation receipts to the @ACLU from today and I'll match it up to $2000."](https://twitter.com/goldroom/status/825504681820450817)
+      * ["Okay. Another $10k match to the ACLU following @cabel who followed @stevenf. Tweet receipts to @command_tab and I'll match :)"](https://twitter.com/stewart/status/825581768241606656)
   * **Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
     * We will continue to post updates on opportunities to help as they come in
     * Join our [Facebook group](https://www.facebook.com/groups/155248034975170/)
