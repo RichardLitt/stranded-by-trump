@@ -12,7 +12,7 @@ On Jan. 27, President Trump banned entry to the U.S. for citizens from Iraq, Ira
 <br/>
 While we can’t directly change the president’s decision, we CAN offer urgent help to those who need it.
 
-<a href="https://twitter.com/search?q=%23resist" target="_blank">\#NoMuslimBan](https://twitter.com/search?q=%23nomuslimban) [#NoBanNoWall](https://twitter.com/search?q=%23nobannowall) [#Resist</a>
+<a href="https://twitter.com/search?q=%23nomuslimban" target="_blank">#NoMuslimBan</a> <a href="https://twitter.com/search?q=%23nobannowall" target="_blank">#NoBanNoWall</a> <a href="https://twitter.com/search?q=%23resist" target="_blank">#Resist</a>
 
 <p class="center-link">
   <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html?pagewanted=all">Those blocked from entry and detained include students, researchers, & families</a>
@@ -59,7 +59,7 @@ Here’s what you can do to help those in desperate need right now:
 
 **1. Offer housing** on <a href="https://www.airbnb.com/disaster" target="_blank">Airbnb</a> or other platforms
 
-**2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let <a href="https://www.justice4all.org/immigrant-advocacy-program/" target="_blank">Simon Sandoval-Moshenberg](mailto:simon@justice4all.org) know ASAP. He is the Director of the [Immigrant Advocacy Program</a> at the Legal Aid Center in Washington, D.C.
+**2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let <a href="mailto:simon@justice4all.org" target="_blank">Simon Sandoval-Moshenberg</a> know ASAP. He is the Director of the <a href="https://www.justice4all.org/immigrant-advocacy-program/" target="_blank">Immigrant Advocacy Program</a> at the Legal Aid Center in Washington, D.C.
 
   * EMAIL HIM: <a href="mailto:simon@justice4all.org" target="_blank">simon@justice4all.org</a>
   * CALL HIM: <a href="tel:+1-703-778-3450" target="_blank">+1-703-778-3450</a>
@@ -135,7 +135,7 @@ Stranded By Trump was made by a group of Americans (mostly) traveling in Buenos 
 
 We are nominally non-partisan, but we acknowledge that Trump's executive orders were racist, xenophobic, alienating, and decidedly un-American. We believe that no one person is illegal, and that America is best when it is welcoming all.
 
-Site idea and planning by <a href="http://www.waldbach.nl/" target="_blank">. Others (anonymous" target="_blank">@richlitt](https://twitter.com/richlitt). The logo is by [Janne Wolterbeek</a> helped out.
+Site idea and planning by <a href="https://twitter.com/richlitt" target="_blank">@richlitt</a>. The logo is by <a href="http://www.waldbach.nl/" target="_blank">Janne Wolterbeek</a> helped out.
 
 If you'd like to help out, please contact us at <a href="mailto:{{ site.email }}">strandedbytrump@gmail.com</a>.
 
