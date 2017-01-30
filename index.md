@@ -38,11 +38,8 @@ Here’s what to know if you are denied entry to the United States:
 
 **6. Reach out!**
 
-- The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
+The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
 The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
-- Or, check out [Project Ellis](https://github.com/mcgd/project-ellis) if you need help from the Silicon Valley.
-- If you're stuck in Canada, [apply for a Temporary Residence Permit](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp) here.
-
 
 ### Find Housing
 
@@ -58,7 +55,10 @@ If you are **a student** and need help relocating:
 
 If you need help with your U.S. possessions (plants, car, etc):
 
-* Reach out <a href="https://twitter.com/FreeSciNet/status/825546738605891584" target="_blank">here</a>.  
+* Reach out <a href="https://twitter.com/FreeSciNet/status/825546738605891584" target="_blank">here</a>.
+
+If you are in the Silicon Valley region: 
+* <a href="https://github.com/mcgd/project-ellis" target="_blank">Project Ellis</a> is a network of people who can help with legal advice, travel arangements, accommodation and other issues. 
 
 # For Those Who Want to Help
 
@@ -104,7 +104,6 @@ Help organizations helping those in need.
   * <a href="https://nilc.z2systems.com/np/clients/nilc/donation.jsp?campaign=15" target="_blank">National Immigration Law Center</a>
   * <a href="https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13" target="_blank">International refugee assistance project</a>
   * Volunteer your time to <a href="https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/" target="_blank">Work For Refugees</a>
-  * Or, check out [this list 11 organizations](https://www.bustle.com/articles/195841-how-to-donate-to-11-organizations-fighting-donald-trump-tooth-and-nail) to donate to.
 
 If you can’t donate, retweet and share posts from those who can:
 
