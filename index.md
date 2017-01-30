@@ -28,6 +28,8 @@ Here’s what to know if you are denied entry to the United States:
 
 **1. Know your rights at the airport**, and when detained. <a href="https://www.aclu.org/know-your-rights" target="_blank">Read more</a> at the American Civil Liberties Union website.
 
+[Muslim Advocates](https://www.muslimadvocates.org/) has also put out a [community guidance](http://www.muslimadvocates.org/wp-content/uploads/FINAL-Community-Guidance-Jan-2017-re-EO.pdf) document and a [fact sheet](https://www.muslimadvocates.org/wp-content/uploads/FINAL-Fact-sheet-Jan-2017-re-EO.pdf) that are both helpful.
+
 **2. DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407, even if they say it will make life easier.
 
 **3. Do not voluntarily abandon your green card** or lawful permanent resident application.
