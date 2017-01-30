@@ -32,7 +32,7 @@ Here’s what to know if you are denied entry to the United States:
 
 **4. Demand a hearing with a judge.** You have the right to an immigration judge. 
 
-**5. Ask for a lawyer.** If you are detained at an airport in the United States, you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with the CPB.
+**5. Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with Customs and Border Protection (CPB).
 
 **6. Reach out!**
 
