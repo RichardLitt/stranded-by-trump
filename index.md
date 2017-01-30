@@ -18,6 +18,8 @@ While we can’t directly change the president’s decision, we CAN offer urgent
   <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html?pagewanted=all">Those blocked from entry and detained include students, researchers, & families</a>
 </p>
 
+# <a href="index-ar.html">الترجمة العربية</a>
+
 <br/>
 
 # For Travelers & Refugees
