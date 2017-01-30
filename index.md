@@ -27,6 +27,7 @@ Here’s what to know if you are denied entry to the United States:
   * DO NOT SIGN anything you are asked to sign, including and especially Form I-407.
   * Do not voluntarily abandon your green card or lawful permanent resident application.
   * → Instead, ask for a lawyer.
+    * Lawyers in JFK did an [AMA on reddit](https://www.reddit.com/r/pics/comments/5qyc5v/we_are_the_lawyers_volunteering_at_jfk_we_need/) about how they are helping refugees with legal advice
   * Find housing:
     * Americans are offering sanctuary to those in need.
     * Free housing on [Airbnb](https://twitter.com/bchesky/status/825517729251684352).
