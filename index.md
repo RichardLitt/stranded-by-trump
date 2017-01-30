@@ -99,6 +99,7 @@ Help organizations helping those in need.
   * <a href="https://nilc.z2systems.com/np/clients/nilc/donation.jsp?campaign=15" target="_blank">National Immigration Law Center</a>
   * <a href="https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13" target="_blank">International refugee assistance project</a>
   * Volunteer your time to <a href="https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/" target="_blank">Work For Refugees</a>
+  * Or, check out [this list 11 organizations](https://www.bustle.com/articles/195841-how-to-donate-to-11-organizations-fighting-donald-trump-tooth-and-nail) to donate to.
 
 If you can’t donate, retweet and share posts from those who can:
 
