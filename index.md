@@ -100,6 +100,10 @@ If you don’t live in an urban area, organize your own protest
 
 If you are a lawyer: the [Urban Justice Center](https://www.urbanjustice.org/) has set up [this google form](https://docs.google.com/forms/d/e/1FAIpQLScU15uSaSkA61YrGmXfplfOu2UwlcwIyEJXPuyON6SCE6YlAw/viewform?c=0&w=1) for Airport Triaging. If you are able to help legally or as an observer, sign up.
 
+Lawyers interested in helping with triaging can also join [this Facebook group](https://m.facebook.com/groups/1267306410025620).
+
+If you are at EWR, you can join [this Google Group](https://t.co/2lv9WbzIoZ).
+
 **6. Donate** and volunteer
 
 Help organizations helping those in need.
