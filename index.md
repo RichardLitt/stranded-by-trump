@@ -26,23 +26,22 @@ While we can’t directly change the president’s decision, we CAN offer urgent
 
 Here’s what to know if you are denied entry to the United States:
 
-**1. Know your rights at the airport**, and when detained. <a href="https://www.aclu.org/know-your-rights" target="_blank">Read more</a> at the American Civil Liberties Union website.
+1. **Know your rights at the airport**, and when detained. <a href="https://www.aclu.org/know-your-rights" target="_blank">Read more</a> at the American Civil Liberties Union website.
 
 [Muslim Advocates](https://www.muslimadvocates.org/) has also put out a [community guidance](http://www.muslimadvocates.org/wp-content/uploads/FINAL-Community-Guidance-Jan-2017-re-EO.pdf) document and a [fact sheet](https://www.muslimadvocates.org/wp-content/uploads/FINAL-Fact-sheet-Jan-2017-re-EO.pdf) that are both helpful.
 
-**2. DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407, even if they say it will make life easier.
+2. **DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407, even if they say it will make life easier.
 
-**3. Do not voluntarily abandon your green card** or lawful permanent resident application.
+3. **Do not voluntarily abandon your green card** or lawful permanent resident application.
 
-**4. Demand a hearing with a judge.** You have the right to an immigration judge. 
+4. **Demand a hearing with a judge.** You have the right to an immigration judge. 
 
-**5. Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with Customs and Border Protection (CPB).
-
-**6. Reach out!**
-
-- The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
-The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
-- If you are stuck in Canada, [apply for a Temporary Residence Permit](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp) here.
+5. **Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with Customs and Border Protection (CPB).
+  * Lawyers at JFK did an <a target="_blank" href="https://www.reddit.com/r/pics/comments/5qyc5v/we_are_the_lawyers_volunteering_at_jfk_we_need/">AMA on reddit</a> explaining the legal rights of refugees.
+6. **Reach out!**
+  * The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
+  The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
+  * If you are stuck in Canada, [apply for a Temporary Residence Permit](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp) here.
 
 
 ### Find Housing
