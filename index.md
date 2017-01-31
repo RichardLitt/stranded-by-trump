@@ -30,6 +30,8 @@ Here’s what to know if you are denied entry to the United States:
 
 [Muslim Advocates](https://www.muslimadvocates.org/) has also put out a [community guidance](http://www.muslimadvocates.org/wp-content/uploads/FINAL-Community-Guidance-Jan-2017-re-EO.pdf) document and a [fact sheet](https://www.muslimadvocates.org/wp-content/uploads/FINAL-Fact-sheet-Jan-2017-re-EO.pdf) that are both helpful.
 
+Here are flyers in [Arabic and Farsi](https://drive.google.com/drive/folders/0B4NP5H8LMBO4RV9fcml5bE9idVE) about the current events that have good information.
+
 2. **DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407, even if they say it will make life easier.
 
 3. **Do not voluntarily abandon your green card** or lawful permanent resident application.
@@ -137,6 +139,10 @@ This can be done from Skype as well as from a phone in the States.
 - Here is [a list of Representatives](http://www.vox.com/2017/1/29/14427466/republican-congress-silent-trump-refugee) and where they stand.
 
 You can find your Representatives on [https://congress.ninja](https://congress.ninja) by using your zipcode.
+
+**8. If you are flying, inform your plane.**
+
+[Here are flyers](https://drive.google.com/drive/folders/0B4NP5H8LMBO4RV9fcml5bE9idVE) in Arabic and Farsi useful for travelers flying into the states. Print them out and give them away.
 
 **8. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
