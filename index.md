@@ -149,6 +149,10 @@ You can find your Representatives on [https://congress.ninja](https://congress.n
 
 Resist! "I was following orders" is not a valid statement. The ACLU has your back and will 100% defend your constitutional, moral actions. Get in touch with them ASAP.
 
+# Security
+
+StrandedByTrump does _not_ have good protocols for ensuring security for anyone who signs up. If you are worried about using your real name, please just read the information here, take what is relevant, and do not sign up or note that you read this site anywhere. I would encourage you to reach out to the ACLU or other organizations that have thought about security at length.
+
 # Contribute
 
 We need help! Currently, there are a few things you can do to help @StrandedByTrump have more impact:
