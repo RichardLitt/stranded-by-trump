@@ -40,11 +40,13 @@ Here are flyers in [Arabic and Farsi](https://drive.google.com/drive/folders/0B4
 
 5. **Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with Customs and Border Protection (CPB).
   * Lawyers at JFK did an <a target="_blank" href="https://www.reddit.com/r/pics/comments/5qyc5v/we_are_the_lawyers_volunteering_at_jfk_we_need/">AMA on reddit</a> explaining the legal rights of refugees.
+
 6. **Reach out!**
   * The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
   The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
   * If you are stuck in Canada, [apply for a Temporary Residence Permit](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp) here.
 
+  * If you or a loved one were detained at DFW International Airport since Friday afternoon, email <a href="mailto:dfwdetained@gmail.com">dfwdetained@gmail.com</a> for free legal help.
 
 ### Find Housing
 
