@@ -68,7 +68,7 @@ If you are in the Silicon Valley region:
 
 Here’s what you can do to help those in desperate need right now:
 
-**1. Offer housing** on <a href="https://www.airbnb.com/disaster" target="_blank">Airbnb</a> or other platforms
+**1. Offer housing** on <a href="https://www.airbnb.com/immigration_support" target="_blank">Airbnb</a> or other platforms
 
 **2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let <a href="mailto:simon@justice4all.org">Simon Sandoval-Moshenberg</a> know ASAP. He is the Director of the <a href="https://www.justice4all.org/immigrant-advocacy-program/" target="_blank">Immigrant Advocacy Program</a> at the Legal Aid Center in Washington, D.C.
 
