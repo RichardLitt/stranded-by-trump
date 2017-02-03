@@ -55,6 +55,7 @@ Americans are offering sanctuary to those in need:
   * Free housing on <a href="https://twitter.com/bchesky/status/825517729251684352" target="_blank">Airbnb</a>.
   * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a> to find housing.
   * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a> thread to find housing.
+  * [Couchsurfing.com](https://www.couchsurfing.com/) may also be a good option for finding short term stays.
 
 If you are **a student** and need help relocating:
 
