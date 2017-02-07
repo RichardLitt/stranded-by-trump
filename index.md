@@ -4,7 +4,7 @@ date: 2017-01-29
 ---
 # Fight the #MuslimBan Right Now
 
-On Jan. 27, President Trump banned entry to the U.S. for citizens from Iraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria.
+On January 27, President Trump banned entry to the U.S. for citizens from Iraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria.
 
 <p class="center-link">
   <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/us-immigration-ban.html?pagewanted=all">Read stories from banned travelers and asylum-seekers</a>
