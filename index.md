@@ -36,7 +36,7 @@ Here are flyers in [Arabic and Farsi](https://drive.google.com/drive/folders/0B4
 
 3. **Do not voluntarily abandon your green card** or lawful permanent resident application.
 
-4. **Demand a hearing with a judge.** You have the right to an immigration judge. 
+4. **Demand a hearing with a judge.** You have the right to an immigration judge.
 
 5. **Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with Customs and Border Protection (CPB).
   * Lawyers at JFK did an <a target="_blank" href="https://www.reddit.com/r/pics/comments/5qyc5v/we_are_the_lawyers_volunteering_at_jfk_we_need/">AMA on reddit</a> explaining the legal rights of refugees.
@@ -45,8 +45,6 @@ Here are flyers in [Arabic and Farsi](https://drive.google.com/drive/folders/0B4
   * The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
   The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
   * If you are stuck in Canada, [apply for a Temporary Residence Permit](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp) here.
-
-  * If you or a loved one were detained at DFW International Airport since Friday afternoon, email <a href="mailto:dfwdetained@gmail.com">dfwdetained@gmail.com</a> for free legal help.
 
 ### Find Housing
 
@@ -67,7 +65,7 @@ If you need help with your U.S. possessions (plants, car, etc):
 
 If you are in the Silicon Valley region:
 
-* <a href="https://github.com/mcgd/project-ellis" target="_blank">Project Ellis</a> is a network of people who can help with legal advice, travel arangements, accommodation and other issues.
+* <a href="https://github.com/mcgd/project-ellis" target="_blank">Project Ellis</a> is a network of people who can help with legal advice, travel arrangements, accommodation and other issues.
 
 # For Those Who Want to Help
 
@@ -75,16 +73,7 @@ Here’s what you can do to help those in desperate need right now:
 
 **1. Offer housing** on <a href="https://www.airbnb.com/immigration_support" target="_blank">Airbnb</a> or other platforms
 
-**2. If you know a green card holder who is stuck outside the U.S.** with tickets to return to IAD -- please let <a href="mailto:simon@justice4all.org">Simon Sandoval-Moshenberg</a> know ASAP. He is the Director of the <a href="https://www.justice4all.org/immigrant-advocacy-program/" target="_blank">Immigrant Advocacy Program</a> at the Legal Aid Center in Washington, D.C.
-
-  * EMAIL HIM: <a href="mailto:simon@justice4all.org">simon@justice4all.org</a>
-  * CALL HIM: <a href="tel:+1-703-778-3450">+1-703-778-3450</a>
-
-**3. Protest**
-
-Here is [a map of protests](http://getgroundgame.com/airportprotests.html) happening around the world, with updates.
-
-If you don’t see your area listed, ask friends on Facebook or Twitter -- there will be protests in virtually every urban area.
+**2. Protest**
 
 Search protest locations on <a href="http://www.protestwithme.com/" target="_blank">protestwithme.com</a>.
 
@@ -92,7 +81,7 @@ Search protest locations on <a href="http://www.protestwithme.com/" target="_bla
 <a class="btn btn-blue" target="_blank" href="https://www.aclu.org/sites/default/files/field_pdf_file/kyr_protests.pdf" download>Know your rights at a protest</a>
 </p>
 
-**4. Organize**
+**3. Organize**
 
 If you don’t live in an urban area, organize your own protest
 
@@ -100,7 +89,7 @@ If you don’t live in an urban area, organize your own protest
   * <a href="https://www.bustle.com/p/how-to-protest-donald-trumps-refugee-ban-no-matter-where-you-are-33783) (Bustle" target="_blank">How to Protest Donald Trump’s Refugee Ban, No Matter Where You Are</a>
   * <a href="http://lifehacker.com/how-to-protest-safely-and-legally-5859590" target="_blank">Make sure you’re protesting safely and legally</a>. You can’t help if you’re in jail.
 
-**5. Lawyers: Help refugees directly at airports**
+**4. Lawyers: Help refugees directly at airports**
 
 If you are a lawyer: the [Urban Justice Center](https://www.urbanjustice.org/) has set up [this google form](https://docs.google.com/forms/d/e/1FAIpQLScU15uSaSkA61YrGmXfplfOu2UwlcwIyEJXPuyON6SCE6YlAw/viewform?c=0&w=1) for Airport Triaging. If you are able to help legally or as an observer, sign up.
 
@@ -108,7 +97,7 @@ Lawyers interested in helping with triaging can also join [this Facebook group](
 
 If you are at EWR, you can join [this Google Group](https://t.co/2lv9WbzIoZ).
 
-**6. Donate** and volunteer
+**5. Donate** and volunteer
 
 Help organizations helping those in need.
 
@@ -118,25 +107,11 @@ Help organizations helping those in need.
   * <a href="https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13" target="_blank">International refugee assistance project</a>
   * Volunteer your time to <a href="https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/" target="_blank">Work For Refugees</a>
   * Or, check out [this list 11 organizations](https://www.bustle.com/articles/195841-how-to-donate-to-11-organizations-fighting-donald-trump-tooth-and-nail) to donate to.
-
-If you can’t donate, retweet and share posts from those who can:
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i&#39;m matching donations to <a href="https://twitter.com/ACLU">@ACLU</a> up to  $50k. please donate and reply or dm your receipts <a href="https://t.co/zaWnk9aPrc">https://t.co/zaWnk9aPrc</a></p>&mdash; dom hofmann (@dhof) <a href="https://twitter.com/dhof/status/825525689533227008">January 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">help our queer &amp; immigrant friends. send me your donation receipts for the <a href="https://twitter.com/ACLU">@aclu</a> &amp; I will match up to $100K <a href="https://t.co/P9zVRH0WH0">https://t.co/P9zVRH0WH0</a> <a href="https://twitter.com/hashtag/RESIST?src=hash">#RESIST</a></p>&mdash; sia (@Sia) <a href="https://twitter.com/Sia/status/825459576036220929">January 28, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Every bit helps. Send me your donation receipts to the <a href="https://twitter.com/ACLU">@ACLU</a> from today and I&#39;ll match it up to $2000. <a href="https://t.co/6MzP6Mbklg">https://t.co/6MzP6Mbklg</a></p>&mdash; Goldroom (@goldroom) <a href="https://twitter.com/goldroom/status/825504681820450817">January 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Okay. Another $10k match to the ACLU following <a href="https://twitter.com/cabel">@cabel</a> who followed <a href="https://twitter.com/stevenf">@stevenf</a>. Tweet receipts to <a href="https://twitter.com/command_tab">@command_tab</a> and I&#39;ll match :) <a href="https://t.co/qqSpvT2O3A">https://t.co/qqSpvT2O3A</a></p>&mdash; Stewart Butterfield (@stewart) <a href="https://twitter.com/stewart/status/825581768241606656">January 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Update: So far 168 donations totaling $52055!  Raising my match to $100k.  Let’s keep this going! <a href="https://twitter.com/sacca">@sacca</a> <a href="https://t.co/Zn3FvuH4Po">https://t.co/Zn3FvuH4Po</a></p>&mdash; Tony Fadell (@tfadell) <a href="https://twitter.com/tfadell/status/825745021513166848">January 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Okay: the amazing <a href="https://twitter.com/natfriedman">@natfriedman</a> is *also* going to match $50k. (Even if he&#39;s not tagged.) So you get a 3X multiplier by donating now.</p>&mdash; Patrick Collison (@patrickc) <a href="https://twitter.com/patrickc/status/825804280577679360">January 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  * Or <a href="https://jezebel.com/a-list-of-organizations-dedicated-to-helping-immigrants-1791772883"_blank">take a look at this comprehensive list</a>.
 
 **7. Call Congress.**
 
-This can be done from Skype as well as from a phone in the States. 
+This can be done from Skype as well as from a phone in the States.
 
 - Here is [a list of senators](https://docs.google.com/spreadsheets/d/1hSGjyWJZIQJpGz4V2ftX_qioCgBtL59oJkkhx146nFE/htmlview?sle=true#gid=0) and where they stand.
 - Here is [a list of Representatives](http://www.vox.com/2017/1/29/14427466/republican-congress-silent-trump-refugee) and where they stand.
