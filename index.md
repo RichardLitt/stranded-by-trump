@@ -122,10 +122,13 @@ You can find your Representatives on [https://congress.ninja](https://congress.n
 
 [Here are flyers](https://drive.google.com/drive/folders/0B4NP5H8LMBO4RV9fcml5bE9idVE) in Arabic and Farsi useful for travelers flying into the states. Print them out and give them away.
 
-**8. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
+**9. Code. See <a href="https://action.github.com/" target="_blank">this list of organizations</a> on GitHub.
+
+**10. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
   * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a>
   * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
+
 
 <br/>
 
