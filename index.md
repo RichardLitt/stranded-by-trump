@@ -20,6 +20,8 @@ While we can’t directly change the president’s decision, we CAN offer urgent
 
 # <a href="index-ar.html">الترجمة العربية</a>
 
+# <a href="index-so.html">Soomaali</a>
+
 <br/>
 
 # For Travelers & Refugees
