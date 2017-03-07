@@ -2,7 +2,7 @@
 layout: home
 date: 2017-03-06
 ---
-# Fight the #MuslimBan Right Now
+# La dagaal #MuslimBan-ka haddadan
 
 27ki Janaayo, Madaxweene Trump waxa uu xayiraad soo galista dalka Mareekanka kusoo rogay dadyowga udhashay Iraq, Iran, Libya, Somalia, Sudan, Yemen, iyo Syria.
 
