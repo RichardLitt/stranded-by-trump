@@ -1,73 +1,73 @@
 ---
 layout: home
-date: 2017-01-29
+date: 2017-03-06
 ---
 # Fight the #MuslimBan Right Now
 
-On January 27, President Trump banned entry to the U.S. for citizens from Iraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria.
+27ki Janaayo, Madaxweene Trump waxa uu xayiraad soo galista dalka Mareekanka kusoo rogay dadyowga udhashay Iraq, Iran, Libya, Somalia, Sudan, Yemen, iyo Syria.
+
 
 <p class="center-link">
-  <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/us-immigration-ban.html?pagewanted=all">Read stories from banned travelers and asylum-seekers</a>
+  <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/us-immigration-ban.html?pagewanted=all">Akhri warbixanada ku saabsan musaafiriinta iyo magangalyo-doonka xayiraada lagu soo rogay</a>
 </p>
 <br/>
-While we can’t directly change the president’s decision, we CAN offer urgent help to those who need it.
+Inkastoo aanan si toos ah u badali karin go’aanka madaxweenaha, waxaan KARNAA inaan u fidino kaalmo dag dag ah qofkii u baahan.
+
 
 <a href="https://twitter.com/search?q=%23nomuslimban" target="_blank">#NoMuslimBan</a> <a href="https://twitter.com/search?q=%23nobannowall" target="_blank">#NoBanNoWall</a> <a href="https://twitter.com/search?q=%23resist" target="_blank">#Resist</a>
 
 <p class="center-link">
-  <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html?pagewanted=all">Those blocked from entry and detained include students, researchers, & families</a>
+  <a target="_blank" href="https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html?pagewanted=all">Dadyowga lagu soo rogay xayiraada dal galis eena xabissan oo ay ku jiraan ardayda, cilmi baarayaasha, iyo qoysaska</a>
 </p>
 
-# <a href="index-ar.html">الترجمة العربية</a>
-
-# <a href="index-so.html">Soomaali</a>
+# <a href="index-so.html">Turjumaadka af Soomaali</a>
 
 <br/>
 
-# For Travelers & Refugees
+# Quseeso Musaafuriinta iyo Qaxootiga
 
-Here’s what to know if you are denied entry to the United States:
+Halkan waxaa ku tafasiileesan xogta aad u baahantahay inaad ogaato hadii laguu diiday in aad soo gasho Mareekanka:
 
-1. **Know your rights at the airport**, and when detained. <a href="https://www.aclu.org/know-your-rights" target="_blank">Read more</a> at the American Civil Liberties Union website.
+1. **Agow xuquuqdaada inta aad ku sugantahay gagida dayuuradaha**, iyo marka aad maxbuus tahay. <a href="https://www.aclu.org/know-your-rights" target="_blank">Wixii dheeri ah ka akhriso</a> Ururuka Xoriyaadka Bulshada (ACLU - American Civil Liberties Union) bogooda internetka.
 
-[Muslim Advocates](https://www.muslimadvocates.org/) has also put out a [community guidance](http://www.muslimadvocates.org/wp-content/uploads/FINAL-Community-Guidance-Jan-2017-re-EO.pdf) document and a [fact sheet](https://www.muslimadvocates.org/wp-content/uploads/FINAL-Fact-sheet-Jan-2017-re-EO.pdf) that are both helpful.
+[Qareenada Muslimiinta](https://www.muslimadvocates.org/) (Muslim Advocates) ayaa iyaguna diyaariyay [qoraal bulsho hagis](http://www.muslimadvocates.org/wp-content/uploads/FINAL-Community-Guidance-Jan-2017-re-EO.pdf) iyo [qoraal xog ogaal](https://www.muslimadvocates.org/wp-content/uploads/FINAL-Fact-sheet-Jan-2017-re-EO.pdf) oo labaduba ah kuwa wax tar leh.
 
-Here are flyers in [Arabic and Farsi](https://drive.google.com/drive/folders/0B4NP5H8LMBO4RV9fcml5bE9idVE) about the current events that have good information.
+Qoraalka hoose oo [af Somali](https://drive.google.com/file/d/0B4NP5H8LMBO4dHVlZkV1U0ZaU0E/view?usp=sharing) ku qoran waxa uu ku saabsanyahay dhacdooyinka haatan taagan wuxuuna bixinayaa xog wanaagsan.
 
-2. **DO NOT SIGN ANYTHING** you are asked to sign, including and especially Form I-407, even if they say it will make life easier.
+2. **WAXBA HA SAXIIXIN** hadii lagu waydiiyo inaad saxiiixdo, oo ay ku jiraan iyo waliba gaar ahaan Form-ka I-407, xitaa haduu ay kugu yiraahdaan waxbuu kuu fududeenayaa.
 
-3. **Do not voluntarily abandon your green card** or lawful permanent resident application.
+3. **Si iskaa ah ha iskaga dayicin kaarkaaga cagaaran (Green Card)** ama dalabka sharcigaaga daganaasho.
 
-4. **Demand a hearing with a judge.** You have the right to an immigration judge.
+4. **Dalbo dhageesi qaadi maxkamadeed.** Waxaaad xaq u leedahay qaadi quseeya arimaha socdaalka.
 
-5. **Ask for a lawyer.** If you are detained at an airport in the United States you can also request legal assistance from the American Civil Liberties Union by contacting their [local representative](https://www.aclu.org/about/affiliates?redirect=affiliates). You have the right to an attorney. Only discuss your details with the attorney, not with Customs and Border Protection (CPB).
-  * Lawyers at JFK did an <a target="_blank" href="https://www.reddit.com/r/pics/comments/5qyc5v/we_are_the_lawyers_volunteering_at_jfk_we_need/">AMA on reddit</a> explaining the legal rights of refugees.
+5. **Dalbo sharciyaqaan.** Hadii lagugu xabiso gagi dayuurado oo ku yaal gudadaha dalka Mareenkanka waxaad sidoo kale ka codsankartaa gargaar dhanka sharciga ah Ururka Mareekanka ee Xoriyadaha Bulshada (American Civil Liberties Union - ACLU) [adigoo la xiriirayo wakiilkooda](https://www.aclu.org/about/affiliates?redirect=affiliates). Waxaad xaq u leedahay sharciyaqaan. Kala hadal tafaasiishaada kaliya sharciyaqaankaaga, hakala hadlin Laamaha Canshuurbixinta iyo Ilaalada Xuduuda (Customs and Border Protection - CPB).
+  * Sharciyaqaanada kusugan gagida dayuuradaha ee JFK waxa ay ku qabteen <a target="_blank" href="https://www.reddit.com/r/pics/comments/5qyc5v/we_are_the_lawyers_volunteering_at_jfk_we_need/">wareysi xog bixin ah barta bulshada ee Reddit</a> iyaga oo sharaxaad ka bixinaya xuquuqaha ee leeyihiin qaxootiga.
 
-6. **Reach out!**
-  * The <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> has a Free Legal Hotline and is encouraging all passport holders from the targeted countries to call.
-  The phone number is: +1 718-348-4558. Email: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
-  * If you are stuck in Canada, [apply for a Temporary Residence Permit](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp) here.
+6. **Gaargaar dalbo!**
+  * Mashruuca <a target="_blank" href="http://www.law.cuny.edu/academics/clinics/immigration/clear.html">CUNY Clear Project</a> waxa ay leeyihiin khad taleefan oo joogto ah waxa ayna ku dhiirigalinayaan dhamaan dadka baasaboorada ka haysta dalalka uu sameeyay xayiraahda safar in ay la xiriiraan.
+  Lambarka lagala xiriiri karo waa sidan: +1 718-348-4558. Emailka: <a href="mailto:cunyclear@email.law.cuny.edu" target="_blank">cunyclear@email.law.cuny.edu</a>
+  * Hadii aad ku xayirantahay gudaha Canada, [halkan ka dalbo Rukhsad Dagaano oo Kumeelgaar ah](http://www.cic.gc.ca/english/information/inadmissibility/permits.asp).
 
-### Find Housing
+### Helista Deegaan
 
-Americans are offering sanctuary to those in need:
+Dadyow Mareekan ah ayaa u fidinaya hooy dadyowga baahida uqaba:
 
-  * Free housing on <a href="https://twitter.com/bchesky/status/825517729251684352" target="_blank">Airbnb</a>.
-  * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a> to find housing.
-  * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a> thread to find housing.
-  * [Couchsurfing.com](https://www.couchsurfing.com/) may also be a good option for finding short term stays.
+  * Hooy bilaasha ah ka eego <a href="https://twitter.com/bchesky/status/825517729251684352" target="_blank">Airbnb</a>.
+  * Xubin ka noqo <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a> si aad hooy u hesho.
+  * Kutaxnoow halkudhigayaga <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitterka</a> si aad u hesho hooy.
+  * Bogga [Couchsurfing.com](https://www.couchsurfing.com/) ayaa isna suuro gal ah inuu ku haboon yahay deegaan kumeel gaar ah in laga helo.
 
-If you are **a student** and need help relocating:
+Haddii aad tahay **arday** una baahantahay caawimaad guuritaan:
 
-* <a href="https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit" target="_blank">Look at this document of academics willing to help</a> affected by the ban.
+* <a href="https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit" target="_blank">Eeg qoraalkaan khuseeyo barayaal jaamacadeed oo daneenaya inay ufidiyaan caawimad dadyowga</a> eey saameesay xayiraada.
 
-If you need help with your U.S. possessions (plants, car, etc):
+Haddii aad caawimaad oo doonaysid alaabtaada kaa taal Mareekana (sida dhirta, gaariga, iwm):
 
-* Reach out <a href="https://twitter.com/FreeSciNet/status/825546738605891584" target="_blank">here</a>.  
+* Halkan ka <a href="https://twitter.com/FreeSciNet/status/825546738605891584" target="_blank">dalbo gargaar</a>
 
-If you are in the Silicon Valley region:
+Haddii aad kusugantahay mandiqada Silicon Valley:
 
-* <a href="https://github.com/mcgd/project-ellis" target="_blank">Project Ellis</a> is a network of people who can help with legal advice, travel arrangements, accommodation and other issues.
+* Mashruuca <a href="https://github.com/mcgd/project-ellis" target="_blank">Project Ellis</a> waa shabakad bulsho oo fidin kara talabixin dhanka sharciga ah, qabanqaabinta safarka, deegaanka iyo arimaha kale ee la xiriira.
 
 # For Those Who Want to Help
 
@@ -109,9 +109,9 @@ Help organizations helping those in need.
   * <a href="https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13" target="_blank">International refugee assistance project</a>
   * Volunteer your time to <a href="https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/" target="_blank">Work For Refugees</a>
   * Or, check out [this list 11 organizations](https://www.bustle.com/articles/195841-how-to-donate-to-11-organizations-fighting-donald-trump-tooth-and-nail) to donate to.
-  * Or <a href="https://jezebel.com/a-list-of-organizations-dedicated-to-helping-immigrants-1791772883" target="_blank">take a look at this comprehensive list</a>.
+  * Or <a href="https://jezebel.com/a-list-of-organizations-dedicated-to-helping-immigrants-1791772883"_blank">take a look at this comprehensive list</a>.
 
-**6. Call Congress.**
+**7. Call Congress.**
 
 This can be done from Skype as well as from a phone in the States.
 
@@ -120,13 +120,13 @@ This can be done from Skype as well as from a phone in the States.
 
 You can find your Representatives on [https://congress.ninja](https://congress.ninja) by using your zipcode.
 
-**7. If you are flying, inform your plane.**
+**8. If you are flying, inform your plane.**
 
 [Here are flyers](https://drive.google.com/drive/folders/0B4NP5H8LMBO4RV9fcml5bE9idVE) in Arabic and Farsi useful for travelers flying into the states. Print them out and give them away.
 
-**8. Code. See <a href="https://action.github.com/" target="_blank">this list of organizations</a> on GitHub.
+**9. Code. See <a href="https://action.github.com/" target="_blank">this list of organizations</a> on GitHub.
 
-**9. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
+**10. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
   * We will continue to post updates on opportunities to help as they come in
   * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a>
   * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
