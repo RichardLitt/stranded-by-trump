@@ -109,7 +109,7 @@ Help organizations helping those in need.
   * <a href="https://irap.urbanjustice.org/civicrm/contribute/transact?reset=1&id=13" target="_blank">International refugee assistance project</a>
   * Volunteer your time to <a href="https://www.globalcitizen.org/en/content/refugees-workforrefugees-worldvision-newzealand/" target="_blank">Work For Refugees</a>
   * Or, check out [this list 11 organizations](https://www.bustle.com/articles/195841-how-to-donate-to-11-organizations-fighting-donald-trump-tooth-and-nail) to donate to.
-  * Or <a href="https://jezebel.com/a-list-of-organizations-dedicated-to-helping-immigrants-1791772883"_blank">take a look at this comprehensive list</a>.
+  * Or <a href="https://jezebel.com/a-list-of-organizations-dedicated-to-helping-immigrants-1791772883" target="_blank">take a look at this comprehensive list</a>.
 
 **7. Call Congress.**
 
@@ -124,9 +124,9 @@ You can find your Representatives on [https://congress.ninja](https://congress.n
 
 [Here are flyers](https://drive.google.com/drive/folders/0B4NP5H8LMBO4RV9fcml5bE9idVE) in Arabic and Farsi useful for travelers flying into the states. Print them out and give them away.
 
-**9. Code. See <a href="https://action.github.com/" target="_blank">this list of organizations</a> on GitHub.
+**9. Code.** See <a href="https://action.github.com/" target="_blank">this list of organizations</a> on GitHub.
 
-**10. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help
+**10. Join our Facebook Group** and follow us on Twitter to stay up to date on ways to help.
   * We will continue to post updates on opportunities to help as they come in
   * Join our <a href="https://www.facebook.com/groups/155248034975170/" target="_blank">Facebook group</a>
   * Follow our <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
